@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextProps } from '@ignite-ui/react'
+import { Box, Text, TextProps } from '@luca-igniteui/react'
 
 export default {
     title: 'Typograhpy/Text',
