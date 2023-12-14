@@ -1,0 +1,2 @@
+import{A as t}from"./index.60fc49de.js";import"./jsx-runtime.01194ee2.js";import"./iframe.2fbf5017.js";import"./index.79e1b599.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/luca-merighi.png"},argTypes:{src:{control:{type:"text"}}}},c={},p={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,p as WithFallback,e as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.ec4ae38e.js.map
