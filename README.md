@@ -6,7 +6,7 @@ Quinto projeto da trilha atualizada de ReactJS do treinamento Ignite da Rocketse
   <img src="/public/techs.png" title="NextJS | TypeScript | Stripe | Keen Slider | Axios" />
 </div>
 
-### Link para Aplicação: [Ignite Shop](https://ignite-react-js-ignite-shop.vercel.app/ "Ignite Shop")
+### Link para Aplicação: [Ignite UI](https://luca-merighi.github.io/Ignite-UI-Design-System/?path=/story/tokens-colors--page "Ignite UI")
 
 ### Screenshot da Aplicação
 ![Ignite Shop](/public/capa.png "Ignite Shop")
